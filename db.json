@@ -23,6 +23,12 @@
       "day": "dasdas",
       "reminder": false,
       "id": 4
+    },
+    {
+      "text": "dsadas",
+      "day": "123",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
